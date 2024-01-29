@@ -1,1 +1,1 @@
-# weather-alert-text
+# Weather Alert Thru Text with SMTP
